@@ -1,0 +1,13 @@
+{
+  "vulnerable": true,
+  "columns": [],
+  "tables": [],
+  "databases": [],
+  "tableData": {},
+  "databaseInfo": {
+    "version": null,
+    "user": null,
+    "currentDb": null
+  },
+  "successfulPayloads": []
+}

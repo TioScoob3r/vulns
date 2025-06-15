@@ -1,0 +1,10 @@
+{
+  "timestamp": "2024-12-12T18:12:13.563Z",
+  "stats": {
+    "totalTested": 20,
+    "totalVulnerable": 0,
+    "uniqueDomains": 19,
+    "recentlyTestedDomains": 19
+  },
+  "vulnerableUrls": []
+}
